@@ -1,0 +1,11 @@
+# 安全提示：这只是辅助规则，不保证防止隐私泄露。
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+*.db
+*.sqlite*
+.DS_Store
+Thumbs.db
