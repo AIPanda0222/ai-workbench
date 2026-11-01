@@ -2,6 +2,10 @@
 
 一套面向个人和小团队的文件式工作方法：把项目、知识、规则和验证证据放在容易查找的位置，让 AI 在不同会话中延续工作，并只读取当前任务需要的经验。
 
+**适用场景：** 从零搭建 AI 知识库 / AI 工作台，或改进已有 Karpathy LLM Wiki 与个人知识管理框架。支持按任务选读、项目接续和经验沉淀；不要求使用 Obsidian。
+
+**For English readers:** A Markdown-based AI workbench and personal knowledge base for starting fresh or improving an existing LLM Wiki. Use the templates and prompts with Codex, WorkBuddy, Claude Code, GitHub Copilot, or another AI assistant, subject to its file-access capabilities and permissions. Product compatibility has not been tested across all environments.
+
 [快速开始](docs/quickstart.md) · [已有框架优化](docs/upgrade.md) · [不同智能体使用](docs/platforms.md) · [给任意智能体的启动指令](docs/agent-prompt.md) · [方法与目录](docs/method.md) · [虚构示例](docs/example.md) · [隐私与公开检查](docs/privacy.md) · [兼容性](docs/compatibility.md)
 
 ## 能解决什么
@@ -34,3 +38,4 @@
 ## 许可
 
 仓库中原创文本、模板和代码采用 [MIT License](LICENSE)；引用的外部页面及产品名称保留各自权利。
+
