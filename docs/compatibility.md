@@ -13,6 +13,8 @@
 
 官方参考：[Codex 项目规则](https://developers.openai.com/codex/guides/agents-md/) · [WorkBuddy 项目说明](https://www.codebuddy.cn/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Project) · [Claude Code 项目记忆](https://code.claude.com/docs/en/memory) · [GitHub Copilot 自定义指令](https://docs.github.com/en/copilot/concepts/prompting-and-context/custom-instructions)。
 
+不使用 Obsidian 也可用普通文件建立和维护；若只能聊天或上传文件，请参阅 [不同智能体使用方式](platforms.md)。已有知识库请参阅 [改造指南](upgrade.md)。
+
 ## 建议做的四个小测试
 
 1. 让智能体报告当前工作目录并指出根规则中的一条具体规则。
